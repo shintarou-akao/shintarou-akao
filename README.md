@@ -13,4 +13,4 @@
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shintarou-akao&count_private=true&theme=darcula&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shintarou-akao&count_private=true&theme=tokyonight&show_icons=true)
