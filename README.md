@@ -14,3 +14,14 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shintarou-akao&count_private=true&theme=tokyonight&show_icons=true)
+
+<div>
+  <ul>
+    <li>
+      <a href="https://qiita.com/shintarou-akao">Qiita</a>
+    </li>
+    <li>
+      <a href="https://www.codewars.com/users/shintaro11">Codewars</a>
+    </li>
+  </ul>
+</div>
