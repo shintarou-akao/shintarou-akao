@@ -14,12 +14,3 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shintarou-akao&count_private=true&theme=tokyonight&show_icons=true)
-
-<div>
-  <h2>Other</h2>
-  <ul>
-    <li>
-      <a href="https://www.codewars.com/users/Shintaro%20Akao">Codewars Account</a>
-    </li>
-  </ul>
-</div>
