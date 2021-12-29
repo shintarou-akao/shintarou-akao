@@ -11,6 +11,9 @@
   <a href="https://qiita.com/shintarou-akao/contributions">
     <img height="20" src="https://qiita-badge.apiapi.app/s/shintarou-akao/contributions.svg" />
   </a>
+  <a href="https://www.codewars.com/users/shintaro-akao">
+    <img height="20" src="https://www.codewars.com/users/shintaro-akao/badges/small" />
+  </a>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shintarou-akao&count_private=true&theme=tokyonight&show_icons=true)
