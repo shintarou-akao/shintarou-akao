@@ -17,9 +17,9 @@
 </p>
 
 <div>
-  <h2>実務経験有</h2>
+  <h2>Work Experience</h2>
   <div>
-    <h3>言語・FW等</h3>
+    <h3>Language・Framework</h3>
     <ul>
       <li>HTML&CSS</li>
       <li>JavaScript, TypeScript, jQuery, Vue.js, Nuxt.js, React.js, Next.js, Node.js</li>
@@ -27,7 +27,7 @@
     </ul>
   </div>
   <div>
-    <h3>その他</h3>
+    <h3>Other</h3>
     <ul>
       <li>TypeORM, Prisma</li>
       <li>MySQL, SQL Server</li>
@@ -42,7 +42,7 @@
   </div>
 </div>
 <div>
-  <h2>資格</h2>
+  <h2>Certification</h2>
   <ul>
     <li>AWS SAA, 基本情報技術者資格</li>
     <li>2級ファイナンシャル・プランニング技能士, 日本商工会議所簿記検定試験3級</li>
