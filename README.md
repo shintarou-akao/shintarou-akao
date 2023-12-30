@@ -16,4 +16,35 @@
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shintarou-akao&count_private=true&theme=tokyonight&show_icons=true)
+<div>
+  <h2>実務経験有</h2>
+  <div>
+    <h3>言語・FW等</h3>
+    <ul>
+      <li>HTML&CSS</li>
+      <li>JavaScript, TypeScript, jQuery, Vue.js, Nuxt.js, React.js, Next.js, Node.js</li>
+      <li>PHP, Laravel</li>
+    </ul>
+  </div>
+  <div>
+    <h3>その他</h3>
+    <ul>
+      <li>TypeORM, Prisma</li>
+      <li>MySQL, SQL Server</li>
+      <li>Redash, Datadog, Sentry, New Relic</li>
+      <li>Storybook</li>
+      <li>GitHub, GitHub Actions, GitLab</li>
+      <li>Jenkins, Bamboo</li>
+      <li>Google Analytics, Google Search Console</li>
+      <li>nginx, Apache</li>
+      <li>Docker</li>
+    </ul>
+  </div>
+</div>
+<div>
+  <h2>資格</h2>
+  <ul>
+    <li>AWS SAA, 基本情報技術者資格</li>
+    <li>2級ファイナンシャル・プランニング技能士, 日本商工会議所簿記検定試験3級</li>
+  </ul>
+</div>
