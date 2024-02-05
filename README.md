@@ -30,7 +30,7 @@
     <h3>Other</h3>
     <ul>
       <li>TypeORM, Prisma</li>
-      <li>MySQL, SQL Server</li>
+      <li>MySQL, SQL Server, Redis, Elasticsearch</li>
       <li>Redash, Datadog, Sentry, New Relic</li>
       <li>Storybook</li>
       <li>GitHub, GitHub Actions, GitLab</li>
