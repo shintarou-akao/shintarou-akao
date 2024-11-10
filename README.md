@@ -34,7 +34,7 @@
         <li>TypeORM, Prisma</li>
         <li>MySQL, SQL Server, Redis, Elasticsearch</li>
         <li>Redash, Datadog, Sentry, New Relic</li>
-        <li>Storybook</li>
+        <li>Storybook, Jest</li>
         <li>GitHub, GitHub Actions, GitLab</li>
         <li>Jenkins, Bamboo</li>
         <li>Google Analytics, Google Search Console</li>
