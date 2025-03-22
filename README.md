@@ -5,15 +5,6 @@
   <a href="https://github.com/shintarou-akao">
     <img height="20" src="https://img.shields.io/github/followers/shintarou-akao?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/shintarou-akao">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/shintarou-akao/posts.svg" />
-  </a>
-  <a href="https://qiita.com/shintarou-akao/contributions">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/shintarou-akao/contributions.svg" />
-  </a>
-  <a href="https://www.codewars.com/users/shintaro-akao">
-    <img height="20" src="https://www.codewars.com/users/shintaro-akao/badges/small" />
-  </a>
 </p>
 
 <div>
@@ -34,7 +25,7 @@
         <li>TypeORM, Prisma</li>
         <li>MySQL, SQL Server, Redis, Elasticsearch</li>
         <li>Redash, Datadog, Sentry, New Relic</li>
-        <li>Storybook, Jest</li>
+        <li>Storybook, Jest, Vitest</li>
         <li>GitHub, GitHub Actions, GitLab</li>
         <li>Jenkins, Bamboo</li>
         <li>Google Analytics, Google Search Console</li>
